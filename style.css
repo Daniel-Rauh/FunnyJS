@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+#num{
+    display: inline-block;
+    width: 10%;
+}
+#red{
+    color: tomato;
+}
+#blue{
+    color: teal;
+}
+#green{
+    color: limegreen;
+}
